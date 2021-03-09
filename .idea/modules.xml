@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ASCII/ASCII.iml" filepath="$PROJECT_DIR$/ASCII/ASCII.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Finilize/Finilize.iml" filepath="$PROJECT_DIR$/Finilize/Finilize.iml" />
       <module fileurl="file://$PROJECT_DIR$/Help.java/Help.java.iml" filepath="$PROJECT_DIR$/Help.java/Help.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Help2.java/Help2.java.iml" filepath="$PROJECT_DIR$/Help2.java/Help2.java.iml" />
       <module fileurl="file://$PROJECT_DIR$/Help3.java/Help3.java.iml" filepath="$PROJECT_DIR$/Help3.java/Help3.java.iml" />
