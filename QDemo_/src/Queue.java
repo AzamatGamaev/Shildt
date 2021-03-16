@@ -1,7 +1,7 @@
 public class Queue {
 
-    char[] q;
-    int putLoc, getLoc;
+    private char[] q;
+    private int putLoc, getLoc;
 
     Queue(int size) {
         q = new char[size + 1];
